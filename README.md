@@ -2,23 +2,23 @@
 IoT Projects that are fun and also good to start off with 
 
 1. 2_LED_Blink
-   - Code where you have two LED's turning on and off at different intervals
+   - Code demonstrating two LEDs alternating between on and off states at distinct intervals.
      
 2. Calculating_Area_and_perimeter_of_triangle
-   - This code calculates the area and perimeter of a triangle based on the users input
+   - This code computes the area and perimeter of a triangle using user-provided input
      
 3. LED_input_blink_rate
-    - Code that asks the user to set the rate at which an LED blinks by useing the numbers 1-9
+    - This code prompts the user to set the blinking rate of an LED using numbers from 1 to 9
 
 4. MPU-6050-Acceleromater
-     - code to try out an Accelerometer and see how to usae it with a micro-controller
+     - Code designed to experiment with an accelerometer and explore its integration with a microcontroller.
   
 5. RGB_LED
-     - Code that cycles through different colors of an RGB led
+     - Code programmed to cycle through various colors of an RGB LED.
   
 6. activer_buzzer_KH
-     - Code that plays the kingdom hearts famous melody on an active buzzer module
+     - Code designed to play the iconic melody from Kingdom Hearts on an active buzzer module.
   
 7. push_Button_RGB_LED
-     -  Turns on an RGB LED with one button, then cycles through six different colors with each press of the same button and turns off the RGB LED with the other button
+     -  This code activates an RGB LED using one button, then proceeds to cycle through six distinct colors with each subsequent press of the same button, and finally turns off the RGB LED using another button.
  
